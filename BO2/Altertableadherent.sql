@@ -1,0 +1,2 @@
+ALTER TABLE adherent
+ADD ADHPhoto VARCHAR(255);
